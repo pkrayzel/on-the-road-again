@@ -12,6 +12,8 @@
 		E0F207E0212DC7EB00C7906A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0F207DE212DC7EB00C7906A /* Main.storyboard */; };
 		E0F207E2212DC7EC00C7906A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0F207E1212DC7EC00C7906A /* Assets.xcassets */; };
 		E0F207E5212DC7EC00C7906A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0F207E3212DC7EC00C7906A /* LaunchScreen.storyboard */; };
+		E0F207EF212DCB0000C7906A /* logo_640.png in Resources */ = {isa = PBXBuildFile; fileRef = E0F207EE212DCB0000C7906A /* logo_640.png */; };
+		E0F207F1212DCB6B00C7906A /* logo_320.png in Resources */ = {isa = PBXBuildFile; fileRef = E0F207F0212DCB6A00C7906A /* logo_320.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		E0F207E1212DC7EC00C7906A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0F207E4212DC7EC00C7906A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0F207E6212DC7EC00C7906A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0F207EE212DCB0000C7906A /* logo_640.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_640.png; path = ../../assets/logo_640.png; sourceTree = "<group>"; };
+		E0F207F0212DCB6A00C7906A /* logo_320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_320.png; path = ../../assets/logo_320.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				E0F207DC212DC7EB00C7906A /* ViewController.swift */,
 				E0F207DE212DC7EB00C7906A /* Main.storyboard */,
 				E0F207E1212DC7EC00C7906A /* Assets.xcassets */,
+				E0F207F0212DCB6A00C7906A /* logo_320.png */,
+				E0F207EE212DCB0000C7906A /* logo_640.png */,
 				E0F207E3212DC7EC00C7906A /* LaunchScreen.storyboard */,
 				E0F207E6212DC7EC00C7906A /* Info.plist */,
 			);
@@ -123,7 +129,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0F207E5212DC7EC00C7906A /* LaunchScreen.storyboard in Resources */,
+				E0F207EF212DCB0000C7906A /* logo_640.png in Resources */,
 				E0F207E2212DC7EC00C7906A /* Assets.xcassets in Resources */,
+				E0F207F1212DCB6B00C7906A /* logo_320.png in Resources */,
 				E0F207E0212DC7EB00C7906A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
